@@ -1,0 +1,53 @@
+{
+	"anims": [
+		{
+			"anim":  "idle",
+			"xmlname": "test idle",
+			"frameRate": 24,
+			"loop": false,
+			"offsets": [0, 0]
+		},
+		{
+			"anim":  "singUP",
+			"xmlname": "test up",
+			"frameRate": 24,
+			"loop": false,
+			"offsets": [5, 37]
+		},
+		{
+			"anim":  "singLEFT",
+			"xmlname": "test left",
+			"frameRate": 24,
+			"loop": false,
+			"offsets": [40, 0]
+		},
+		{
+			"anim":  "singRIGHT",
+			"xmlname": "test right",
+			"frameRate": 24,
+			"loop": false,
+			"offsets": [0, 0]
+		},
+		{
+			"anim":  "singDOWN",
+			"xmlname": "test down",
+			"frameRate": 24,
+			"loop": false,
+			"offsets": [14, 0]
+		}
+	],
+	"otherOffsets": [
+		{
+			"type":  "pos",
+			"offsets": [150, 360]
+		},
+		{
+			"type":  "startCam",
+			"offsets": [300, 0]
+		},
+		{
+			"type":  "cam",
+			"offsets": [-100, -430]
+		}
+	]
+}
