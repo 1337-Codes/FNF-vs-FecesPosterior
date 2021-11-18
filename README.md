@@ -1,2 +1,4 @@
 # FNF-vs-FecesPosterior
-An FNF Mod I made, all the credit goes to the people who made the mod in https://gamebanana.com/mods/311713, I used it as a template. To use the mod go to freeplay and go on bopeebo.
+I updated the mod to V3 where the modded song is sepetate from thew other songs and is now called "speedrun"
+I also added 2 new songs "omnipotent" and "boundless"
+That's all! Enjoy!
