@@ -1,3 +1,7 @@
 # FNF-vs-FecesPosterior
-I updated the mod to V4 where I added a blindfolded mode, simply go to options, then notes, and click on assets until it sais "pixel", do this for all keys individually, and you get blindfolded mode.
-To switch back you set nots to default assets
+V5 moment! Using an engine instead of a template mod! (Mag Engine)
+I switched to using this engine for the following reasons:
+  easy to mod with
+  using a template mod gives your mod unoriginal features
+  week 7 moment LEZAGO
+Now to enable ghost tapping change the preference option from old to new input. (don't ask me ask magnumsrt)
