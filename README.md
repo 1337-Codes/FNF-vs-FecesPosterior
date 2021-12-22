@@ -12,3 +12,6 @@ V5.1.1:
   Minor Update:
     updated the mod so that thhe only week is my customm week
   No Major Update Here.
+V6:
+  Major Update:
+    made a SeCReT sONg (just check freeplay) Lair Of Feces Posterior (just a cover of finale plus there is no lair)
