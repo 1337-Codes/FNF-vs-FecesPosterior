@@ -17,3 +17,6 @@ V6:
     made a SeCReT sONg (just check freeplay) Lair Of Feces Posterior (just a cover of finale plus there is no lair)
 Mag engine is private on gamebanana but here is the github link https://github.com/magnumsrtisswag/MagEngine-Public
 hopefully it remains public because it is a very good engine (no coding required)
+V6.1.0:
+  Minor Update:
+    updated mag engine
