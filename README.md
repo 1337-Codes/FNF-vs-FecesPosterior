@@ -16,6 +16,3 @@ V5.1.1:
 V6:
   Major Update:
     made a SeCReT sONg (just check freeplay) Lair Of Feces Posterior (just a cover of finale plus there is no lair)
-V6.1.0:
-  Minor Update:
-    updated mag engine
