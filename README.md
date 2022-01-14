@@ -23,3 +23,5 @@ v6.2.0:
   another engine update
 v6.3.0:
   another engine update
+v6.3.1:
+  bug fix now the week songs work
