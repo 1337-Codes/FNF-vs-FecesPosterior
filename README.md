@@ -11,7 +11,7 @@ V5.1.1:
   Bug Fix:
     updated the movement of FecesPosterior
   Minor Update:
-    updated the mod so that thhe only week is my custom week
+    updated the mod so that the only week is my custom week
   No Major Update Here.
 V6:
   Major Update:
